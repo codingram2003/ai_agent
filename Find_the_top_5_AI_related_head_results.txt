@@ -1,0 +1,35 @@
+Task: Find the top 5 AI related headlines from a reputable tech news site
+Timestamp: 2025-03-31 19:24:43
+
+Error: Could not parse response
+
+Raw Response:
+```json
+[
+  {
+    "headline text": "Manus launches paid subscription plans and a mobile app",
+    "article URL": null,
+    "publication date/time": "12 minutes ago"
+  },
+  {
+    "headline text": "Amazon unveils Nova Act, an AI agent that can control a web browser",
+    "article URL": null,
+    "publication date/time": "44 minutes ago"
+  },
+  {
+    "headline text": "The hottest AI models, what they do, and how to use them",
+    "article URL": null,
+    "publication date/time": "20 hours ago"
+  },
+  {
+    "headline text": "Apple reportedly revamping Health app to add an AI coach",
+    "article URL": null,
+    "publication date/time": "17 hours ago"
+  },
+    {
+    "headline text": "ByteDance enters the deepfake AI video arena",
+    "article URL": null,
+    "publication date/time": "Feb 10, 2025"
+  }
+]
+```

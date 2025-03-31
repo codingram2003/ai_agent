@@ -1,0 +1,65 @@
+Task: get 5 new exciting pc games
+Timestamp: 2025-03-31 19:26:23
+
+Error: Could not parse response
+
+Raw Response:
+```json
+[
+  {
+    "title": "Colortone: Remixed",
+    "platform": "PC",
+    "metascore": null,
+    "user_score": null,
+    "summary": "Colorton Remixed is a remaster of the original game in which you have to solve puzzles based on color mixing. There is only your mind and riddles on the way to your freedom. Riddles have become even more, they have become more complex, but let them become longer towards freedom.",
+    "release_date": "Mar 31, 2025",
+    "genre": null,
+    "developer": null,
+    "publisher": null
+  },
+  {
+    "title": "Secrets For Taking",
+    "platform": "PC",
+    "metascore": null,
+    "user_score": null,
+    "summary": null,
+    "release_date": "Mar 31, 2025",
+    "genre": null,
+    "developer": null,
+    "publisher": null
+  },
+    {
+    "title": "Molytropia: Dead Stars Still Shine Here",
+    "platform": "PC",
+    "metascore": null,
+    "user_score": null,
+    "summary": null,
+    "release_date": "Mar 31, 2025",
+    "genre": null,
+    "developer": null,
+    "publisher": null
+  },
+  {
+    "title": "Phantom Cell",
+    "platform": "PC",
+    "metascore": null,
+    "user_score": null,
+    "summary": null,
+    "release_date": "Mar 31, 2025",
+    "genre": null,
+    "developer": null,
+    "publisher": null
+  },
+  {
+    "title": "Ooze: The Great and Powerful",
+    "platform": "PC",
+    "metascore": null,
+    "user_score": null,
+    "summary": null,
+    "release_date": "Mar 31, 2025",
+    "genre": null,
+    "developer": null,
+    "publisher": null
+  }
+]
+```

@@ -1,0 +1,24 @@
+# Browser automation
+selenium>=4.1.0
+webdriver-manager>=3.8.0
+
+# NLP and machine learning
+transformers>=4.18.0
+torch>=1.11.0
+numpy>=1.22.0
+
+# Web requests and parsing
+requests>=2.27.1
+beautifulsoup4>=4.11.0
+
+# Data processing
+pandas>=1.4.0
+matplotlib>=3.5.0
+
+# Utilities
+python-dotenv>=0.20.0
+tqdm>=4.64.0
+colorama>=0.4.4
+
+# Testing
+pytest>=7.0.0
